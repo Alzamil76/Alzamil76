@@ -1,5 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abdullah Alzamil 
+
 Hands-on with Linux, Python, n8n, and security automation 
+
 I'm a professional making a deliberate move into cybersecurity after 8+ years in operations and field management. I recently earned my Diploma in Cybersecurity and I'm now focused on building real, hands-on skills to land my first role in SOC or network security — with cloud security as the long-term goal. I spend my time working with Kali Linux for penetration testing and recon, automating workflows with n8n and Python, building apps with Flutter, and getting comfortable in Linux environments and Docker containers. I'm not here to collect badges — I'm here to build things, break things, and document what I learn along the way. My background in managing teams, coordinating with government entities, and handling compliance gives me upper hand cybersecurity, and I plan to use it. 
 
 * 🌍  I'm based in Saudi Arabia, Riyadh
